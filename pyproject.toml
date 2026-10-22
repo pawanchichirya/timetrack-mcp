@@ -8,4 +8,5 @@ dependencies = [
     "fastapi>=0.141.1",
     "fastmcp>=4.0.3",
     "uvicorn[standard]>=0.52.4",
+    "psycopg[binary]>=3.2.0"
 ]
