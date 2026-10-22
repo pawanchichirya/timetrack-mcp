@@ -1,0 +1,8 @@
+scripts/
+
+*/txt
+
+.venv
+__pycache__/
+*.db
+.claude/
