@@ -173,4 +173,3 @@ def get_project_summary(project: str) -> dict:
         "total_hours": sum(by_employee.values()),
         "by_employee": by_employee,
     }
-```
